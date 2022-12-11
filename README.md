@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, I'm ATUL KUMAR</h1>
+<h1 align="center">Heyo<img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">It's ATUL!  </h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
@@ -7,14 +7,18 @@
 
 - 🌱 I’m currently Learning **Cloud, ML, AI**
 
-- 📫 How to reach me **atulkumar3002@gmail.com**
+- 📫 Reach me **atulkumar3002@gmail.com**
 
-- ⚡ Fun fact:  **I Run on Coffee**
+- ⚡ Oneday I will make it happen 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/atulkumar3002" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/512px-Twitter-logo.svg.png?20220821125553" alt="atulkumar3002" height="40" width="40" /></a>
-<a href="https://instagram.com/atulkr.exe" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="atulkr.exe" height="40" width="40" /></a>
+<p align="left" >
+	<a href="https://github.com/AtulKr-exe"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+	<a href="https://www.linkedin.com/in/atul-kumar-70b724173"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a href="https://www.facebook.com/people/Atul-Kumar/100013035275105/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
+	<a href="https://www.instagram.com/atulkr.exe/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+	<a href="https://tech-lession.blogspot.com/?m=1"><img alt="medium" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/goodnotes.png"/></a>
+	
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
