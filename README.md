@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **atulkumar3002@gmail.com**
 
-- ⚡ Fun fact **I Run on Coffee**
+- ⚡ Fun fact:  **I Run on Coffee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
