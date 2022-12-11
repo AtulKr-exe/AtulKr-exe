@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/atulkumar3002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atulkumar3002" height="30" width="40" /></a>
-<a href="https://instagram.com/atulkr.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="atulkr.exe" height="30" width="40" /></a>
+<a href="https://twitter.com/atulkumar3002" target="blank"><img align="center" src="https://en.wikipedia.org/wiki/Twitter#/media/File:Twitter-logo.svg" alt="atulkumar3002" height="30" width="40" /></a>
+<a href="https://instagram.com/atulkr.exe" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="atulkr.exe" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
