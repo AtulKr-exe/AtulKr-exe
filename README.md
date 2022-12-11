@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atulkr-exe&label=Profile%20views&color=0e75b6&style=flat" alt="atulkr-exe" /> </p>
 
-<p align="left"> <a href="https://twitter.com/atulkumar3002" target="blank"><img src="https://img.shields.io/twitter/follow/atulkumar3002?logo=twitter&style=for-the-badge" alt="atulkumar3002" /></a> </p>
-
-- 🌱 I’m currently learning **Cloud, ML, AI**
+- 🌱 I’m currently Learning **Cloud, ML, AI**
 
 - 📫 How to reach me **atulkumar3002@gmail.com**
 
