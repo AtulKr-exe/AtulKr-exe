@@ -5,7 +5,7 @@
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=atulkr-exe&label=Profile%20views&color=0e75b6&style=flat" alt="atulkr-exe" /> </p>-->
 
-- 🌱 I’m currently Learning **Cloud, ML, AI**
+- 🌱 I’m currently Learning **CyberSecurity, ML**
 
 - 📫 Reach me **atulkumar3002@gmail.com**
 
